@@ -1,1 +1,1 @@
-Aplicação da bibliteca matplotlib do python para apresentar dados com gráficos, onde foi exercitado a utilização de mais de um eixo
+Aplicação da bibliteca matplotlib do python para apresentar dados com gráficos, onde foi exercitado a utilização de mais de um eixo para apresentar mais de um dado em um único gráfico ou para criar um mosaico de gráficos
